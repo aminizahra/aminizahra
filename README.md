@@ -14,7 +14,4 @@ Welcome to my GitHub!
 
 - https://www.linkedin.com/in/zahraamini-ai/
 
-- My Kaggle profile:
-
-
-<a href="https://ibb.co/XCdZBLn"><img src="https://i.ibb.co/kSrgnBL/102.png" alt="102" border="0"></a>
+- Please check my Kaggle profile, too.
